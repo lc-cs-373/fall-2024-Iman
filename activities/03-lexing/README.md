@@ -2,6 +2,8 @@
 
 The goal of this activity are:
 
+
+
 * Ensure you have a working development environment for PLCC.
 * Use PLCC to build scanners from a lexical specification in a grammar file.
 * Ensure you can access your individual homework repository on GitHub.
